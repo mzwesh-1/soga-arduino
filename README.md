@@ -18,6 +18,11 @@ ize phindaphinda() {
 }
 ```
 
+Examples (File -> Examples -> Soga -> your language): traffic light, servo, stepper, LCD1602, HC-SR04 ultrasonic,
+PIR motion, DHT11, MPU-6050, RC522 RFID, water level, sound sensor, DS3231 clock, IR remote, joystick, 4x4 keypad,
+rotary encoder, MAX7219 matrix, 74HC595 7-segment, 4-digit 7-segment, buzzer melody, relay, DC motor with L293D,
+RGB LED, photoresistor, buttons and tilt switch.
+
 Headers: `isiZulu.h`, `isiXhosa.h`, `siSwati.h`, `isiNdebele.h`, `Sesotho.h`, `Setswana.h`, `Sepedi.h`, `Xitsonga.h`, `Tshivenda.h`, `Afrikaans.h`.
 
 - Put other libraries (`#include <Servo.h>`, `<Wire.h>`...) before your language header.
